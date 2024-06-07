@@ -1,0 +1,57 @@
+body {
+    background-color: #242424;
+    padding: 10px;
+    border-radius: 12px;
+}
+
+h1 {
+    color: grey;
+    font-weight: ultrabold;
+    font-size: larger;
+    margin-left: 5px;
+}
+
+h2 {
+    color: grey;
+    font-weight: ultrabold;
+    font-size: smaller;
+    margin-left: 5px;
+    margin-bottom: -12px;
+    margin-top: 8px;
+    margin-left: 5px;
+}
+
+h3 {
+    color: grey;
+    font-weight: bold;
+    font-size: smaller;
+    margin-left: 5px;
+}
+
+p {
+    color: whitesmoke;
+}
+
+newbutton {
+    margin-bottom: -12px;
+    margin-top: 8px;
+    margin-left: 5px;
+    
+    padding: 5px;
+    color: antiquewhite;
+    background-color: #616161;
+    border-style: outset;
+    border-width: 2px;
+    border-color: #343434;
+}
+
+catimg {
+    border-radius: 25px;
+    border-style: double;
+    border-color: #a7a7a7;
+    border-width: 5px;
+}
+
+streamlist {
+    direction: column;
+}
